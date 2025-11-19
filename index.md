@@ -1,2 +1,2 @@
 ## New Jersey Dispensary Locations
-<iframe src="nj_dispensaries.html" height="500" width="500"></iframe>
+<iframe src="nj_dispensaries.html" height="855" width="95%"></iframe>
